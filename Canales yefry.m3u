@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" aspect-ratio="16:9", MEGA HD
-http://186.67.140.98:8081/Mega /HD/playlist.m3u8
+http://186.67.140.98:8081/evento/3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://logowik.com/content/uploads/images/t_chv-chilevision2183.logowik.com.webp", CHV HD
 http://186.67.140.98:8081/CHV/HD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://1000marcas.net/wp-content/uploads/2021/04/Canal-13-Logo.png", Canal 13 HD
